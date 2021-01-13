@@ -1,0 +1,7 @@
+# Ignore logs
+*.logs
+
+WEB-INF/
+
+# Ignore Dependencies
+/bower_components/*
