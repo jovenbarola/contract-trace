@@ -1,7 +1,8 @@
 # Ignore logs
 *.logs
 
-WEB-INF/
+# Remove java information folder
+/WEB-INF/
 
 # Ignore Dependencies
 /bower_components/*
